@@ -6,7 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## My first time using Vercel, Github, React, Next JS, Typescript, VS Code and all the other things. Hello World.
 
-Preview Deployment Creds
-Email: user@nextmail.com
+Preview Deployment Creds <br>
+Email: user@nextmail.com <br>
 Password: 123456
 
